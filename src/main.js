@@ -36,11 +36,11 @@ console.log('$(bornYear <= 2500)');
 
 // 6
 let bye = "goodbye";
-console.log(bye.toUpperCase())
+console.log(bye.toUpperCase());
 
 // 7
 let salami = "hi";
-console.log(salami.toLoverCase())
+console.log(salami.toLoverCase());
 
 // 8
 // manamde teqst aris dabal registrshi da shemdeg magal registrshi
