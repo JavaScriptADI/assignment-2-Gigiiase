@@ -1,8 +1,8 @@
 // Work in this directory: src
 
 // 1
-let gigi = "Gigi";
-let firsname = gigi; 
+const gigi = "Gigi";
+const firsname = gigi; 
 console.log(firsname); 
 
 
@@ -35,12 +35,12 @@ console.log('$(bornYear <= 2500)');
 // 5 < 7 true
 
 // 6
-let misalmeba = hello1;
-console.log(misalmeba.toUpperCase())
+let damshvidobeba = bye;
+console.log(damshvidobeba.toUpperCase())
 
 // 7
-let misalmeba2 = hello2;
-console.log(misalmeba2.toLoverCase())
+let salami = hi;
+console.log(salami.toLoverCase())
 
 // 8
 // manamde teqst aris dabal registrshi da shemdeg magal registrshi
