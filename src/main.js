@@ -1,8 +1,10 @@
 // Work in this directory: src
 
 // 1
-let firsname = gigi;
-console.log(firsname);
+let gigi = "Gigi";
+let firsname = gigi; 
+console.log(firsname); 
+
 
 // 2 
 
