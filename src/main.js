@@ -52,8 +52,8 @@ console.log(salami.toLoverCase())
 // the function is not working because the text is already lowercase
 
 // 11
-let age1 = prompt('How old are you?');
-let nextAge = number(age1) + 1;
+let age1 = prompt('How old are you?'); 
+let nextAge = Number(age1) + 1; 
 console.log(`Next year you will be ${nextAge}`);
 
 // 12
