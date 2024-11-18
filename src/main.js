@@ -35,11 +35,11 @@ console.log('$(bornYear <= 2500)');
 // 5 < 7 true
 
 // 6
-let damshvidobeba = bye;
-console.log(damshvidobeba.toUpperCase())
+let bye = "goodbye";
+console.log(bye.toUpperCase())
 
 // 7
-let salami = hi;
+let salami = "hi";
 console.log(salami.toLoverCase())
 
 // 8
