@@ -1,7 +1,7 @@
 // Work in this directory: src
 
 // 1
-let firsname = gigiise;
+let firsname = gigi;
 console.log(firsname);
 
 // 2 
@@ -33,12 +33,12 @@ console.log('$(bornYear <= 2500)');
 // 5 < 7 true
 
 // 6
-let misalmeba = hello;
+let misalmeba = hello1;
 console.log(misalmeba.toUpperCase())
 
 // 7
-let misalmeba2 = hello;
-console.log(misalmeba.toLoverCase())
+let misalmeba2 = hello2;
+console.log(misalmeba2.toLoverCase())
 
 // 8
 // manamde teqst aris dabal registrshi da shemdeg magal registrshi
